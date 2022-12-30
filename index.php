@@ -18,20 +18,6 @@
     <h1>Content</h1>
     <h1>Content</h1>
     <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-
 
     <?php include("footer.php")?>
 </body>
