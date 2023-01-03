@@ -13,11 +13,24 @@
 <body>
     <?php include("header.php");?>
 
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
-    <h1>Content</h1>
+    <!-- slide_show start -->
+
+    <div class="contain_slide">
+        <div class="content-slide">
+            <div class="slide-layer">
+                <h5>New Arrivals</h5>
+                <h1>Collection</h1>
+                <span>Shop Now</span>
+            </div>
+            <div class="slide-img">
+                <img src="" alt="model">
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- slide_show End -->
 
     <?php include("footer.php")?>
 </body>

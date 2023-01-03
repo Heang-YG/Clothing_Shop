@@ -19,7 +19,7 @@
     <div class="header sticky-top">
         <nav class="navbar navbar-expand-lg bg-light">
             <div class="logo">
-                <a class="navbar-brand" href="#">HELLO</a>
+                <a class="navbar-brand" href="index.php">HELLO</a>
             </div>
             <div class="nav-start">
                 <ul class="navbar-nav">
@@ -42,7 +42,7 @@
             </div>
 
             <div class="nav-end">
-                <a href="#"><i class="fa-regular fa-user"></i></a>
+                <a href="#" name="user_log"><i class="fa-regular fa-user"></i></a>
                 <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a>
                 <a href="#"><i class="fa-regular fa-star"></i></a>
                 <a href="#"><i class="fa-solid fa-bag-shopping"></i></a>
